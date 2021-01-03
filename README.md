@@ -39,7 +39,7 @@ export default () => ({
     }
     languages: ["C++", "C", "JAVA"],
     databases: ["MySQL"],
-    training : ["Data Science","Embedded C"];
+    training : ["compititive","Embedded C","Blockchain"];
     Volunteer/social works:["SAVERA NGO"] ;
     }, 
   },
