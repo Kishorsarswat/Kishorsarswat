@@ -2,11 +2,11 @@
 
 ### Hola, I'm [Kishorsarswat]() <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">. 
 
-- 🔭 I’m currently working as a student.
-- 🌱 I’m currently learning fundamentals of different technologies.
+- 🔭 I’m currently working as a Software Engineer at Samsung Research Institute Banglore.
+- 🌱 I’m currently exploring different technologies as a part of my job as a reseacher.
 - 👯 I’m looking to collaborate on some open source automation,IOT and any interesting project irrespective of field and information.
-- 🤔 I’m looking for help with java projects.
-- 💬 Ask me about anything related to tech.
+- 🤔 I’m looking for help with Rust projects.
+- 💬 Ask me about anything related to SmartThings.
 - 📫 How to reach me: via twitter,linkedin and gmail.
 - ⚡ Fact: I like working on automation and gaming and flirting.
 
